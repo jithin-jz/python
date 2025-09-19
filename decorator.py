@@ -7,4 +7,4 @@ def dec(fun):
 @dec
 def hey():
     print('hey j')
-hey()
+hey() 
