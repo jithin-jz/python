@@ -17,3 +17,20 @@
 # for i in range(2,11,2):
 #     print(i)
 
+# for i in range(1,3):
+#     for j in range(3,6):
+#         print(f'{i} {j}')
+
+
+# for i in range(1,11):
+#     if i%2!=0:
+#         print(f'odd:{i}')
+
+
+# start = int(input('enter start :'))
+# stop  = int(input('enter stop : '))
+
+# for i in range(start,stop):
+#     if i == 8:
+#         continue
+#     print(i)
